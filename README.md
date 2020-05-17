@@ -1,5 +1,5 @@
-# lighbike
-a tron lightbike game clone. Was made using Unity3d
+# `lighbike`
+#### a tron lightbike game clone. Was made using Unity3d
 ```
 wisemonkey
 oranbusiness@gmail.com
@@ -8,7 +8,8 @@ github.com/wisehackermonkey
 ```
 
 ## Play the Game Online! 
-[Click here to play the game online](https://wisehackermonkey.github.io/lighbike/)
+# [Click here to play the game online](https://wisehackermonkey.github.io/lighbike/)
+![](https://i.imgur.com/BAmouwR.png)
 ---
 #### How to play 
 ----
